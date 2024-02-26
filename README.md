@@ -14,8 +14,13 @@ Shows SVG pie charts of the Five Elements balance and Yin-Yang distribution.
 
 ## 注意 Notes
 
-- 确保你的macOS设备已安装Python3。
+- 本项目依赖python，确保你的macOS设备已安装Python3。且添加到PATH，以python3为名。
 Ensure your macOS device has Python3 installed.
+- 本项目依赖lunar_python，确保你的Python3已安装lunar_python。
+Ensure your python3 has lunar_python installed.
+```bash
+pip3 install lunar_python
+```
 
 ## 许可 License
 
