@@ -1,4 +1,4 @@
-# 命理分析工具桌面小组件 Fate Analysis Tool Desktop Widget
+# 命理分析工具桌面小组件
 
 ## 简介 Introduction
 
