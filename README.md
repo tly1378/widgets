@@ -1,7 +1,5 @@
 # 命理分析工具桌面小组件
 
-## 简介 Introduction
-
 这是一个为macOS设计的桌面小组件，可以显示个人的八字信息、五行平衡以及阴阳分布的SVG饼图。
 This desktop widget for macOS displays personal Eight Characters (Bazi), Five Elements balance, and Yin-Yang distribution in SVG pie charts.
 
